@@ -1,4 +1,4 @@
-# Resumen-Conceptos basicos de redes modulos 3 y 4
+# Resumen Conceptos Basicos de Redes Modulos 3 y 4
 ## Módulo 3: Redes Inalámbricas y Móviles
 Este módulo explica cómo los datos viajan a través del aire y cómo los dispositivos se mantienen conectados mientras se mueven.
 
